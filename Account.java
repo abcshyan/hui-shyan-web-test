@@ -1,4 +1,4 @@
-import java.util.Scanner;
+﻿import java.util.Scanner;//12
 public class Account {    
        Scanner scanner = new Scanner(System.in);     
    private int balance;
